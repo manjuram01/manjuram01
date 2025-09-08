@@ -14,7 +14,7 @@ A Data Science enthusiast
 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UDVP18_P1U5GeAqWqeAw65hwqfxQeZKU/view?usp=sharing)
 
 Languages and Tools:
-mysql python Power BI Excel 
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
