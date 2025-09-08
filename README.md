@@ -3,7 +3,7 @@ A Data Science enthusiast
 
 🔭 I’m currently working as an AI content Evaluator at Soul AI
 
-👨‍💻 All of my projects are available at Portfolio
+👨‍💻 All of my projects are available at [Portfolio](https://manjuram01.github.io/manjuram.portfolio/)
 
 📝 I regularly write articles on [MEDIUM](https://medium.com/@manjurambojja)
 
