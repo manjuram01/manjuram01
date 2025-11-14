@@ -2,8 +2,6 @@ Hi 👋, I'm Manju Ram
 
 A Data Science enthusiast
 
-🔭 I’m currently working as an AI content Evaluator at Soul AI
-
 👨‍💻 All of my projects are available at [Portfolio](https://manjuram01.github.io/manjuram.portfolio/)
 
 📝 I regularly write articles on [MEDIUM](https://medium.com/@manjurambojja)
@@ -11,8 +9,6 @@ A Data Science enthusiast
 💬 Ask me about SQL, Python, advance excel, Power BI
 
 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/manju-ram-b-031976239/)
-
-📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UDVP18_P1U5GeAqWqeAw65hwqfxQeZKU/view?usp=sharing)
 
 Languages and Tools:
 
