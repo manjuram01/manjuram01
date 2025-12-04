@@ -2,8 +2,6 @@ Hi 👋, I'm Manju Ram
 
 A Data Science enthusiast
 
-👨‍💻 All of my projects are available at [Portfolio](https://manjuram01.github.io/manjuram.portfolio/)
-
 📝 I regularly write articles on [MEDIUM](https://medium.com/@manjurambojja)
 
 💬 Ask me about SQL, Python, advance excel, Power BI
